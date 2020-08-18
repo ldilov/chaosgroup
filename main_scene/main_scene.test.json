@@ -1,0 +1,11 @@
+[
+  {
+    "scene": "scene_name",
+    "success": true,
+    "time": 42
+  }, {
+    "scene": "that_other_scene",
+    "success": false,
+    "time": 5
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "scene": "Secondary scene",
+    "success": true,
+    "time": 22
+  }, {
+    "scene": "Secondary other dummy scene",
+    "success": false,
+    "time": 8
+  }
+]
