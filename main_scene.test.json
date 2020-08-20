@@ -7,5 +7,20 @@
     "scene": "that_other_scene",
     "success": false,
     "time": 5
+  },
+  {
+    "scene": "that_other_scene2",
+    "success": false,
+    "time": 5
+  },
+  {
+    "scene": "that_other_scene3",
+    "success": true,
+    "time": 3
+  },
+  {
+    "scene": "that_other_scene4",
+    "success": false,
+    "time": 15
   }
 ]
